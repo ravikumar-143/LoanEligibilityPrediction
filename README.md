@@ -1,7 +1,8 @@
 -> First open colab Notebook or Jupiyter notebook
+->write code and execute each and every line to better understand.
 ->Download the dataset and import it in colabNotebook or JupiyterNotebook
 ->In this Used to algorithms 1) DecisionTree and 2) Navie_Bayes algorithm
 ->Preprocessing the data like handling missing values and filling it , like 'isnull' and 'fillnull
 ->By this is any missing values then we can see after select a algorithm to perform operations
 ->use 'iloc' for cetain rows which we like and it display's as 0's and 1's
-->finally if 1 then eligible for Loan and 0 is Not eligible for Loan
+->finally if 1 then eligible for Loan and 0 is Not eligible for Loan.
